@@ -35,6 +35,6 @@ The project consists of several core components:
 
 ## Copyright
 
-© 2024 Changchang Li. All rights reserved.
+© 2024 CC Li. All rights reserved.
 
 
